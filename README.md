@@ -1,5 +1,5 @@
 # ImpatientCapsAndRuns
-This is an implementation of ImpatientCapsAndRuns, an algorithm configuration procedure described in the paper ImpatientCapsAndRuns: Approximately Optimal Algorithm Configuration from an Infinite Pool. The codes are based on this [repo](https://github.com/deepmind/leaps-and-bounds)
+This is an implementation of ImpatientCapsAndRuns, an algorithm configuration procedure described in the paper ImpatientCapsAndRuns: Approximately Optimal Algorithm Configuration from an Infinite Pool. The code can be found in this [repo](https://github.com/deepmind/leaps-and-bounds).
 
 #### Abstract 
 Algorithm configuration procedures optimize parameters of a given algorithm to perform well over a distribution of inputs. Recent theoretical work focused on the case of selecting between a small number of alternatives. In practice, parameter spaces are often very large or infinite, and so successful heuristic procedures discard parameters "impatiently", based on very few observations. Inspired by this idea, we introduce ICAR, which quickly discards less promising configurations, significantly speeding up the search procedure compared to previous algorithms with theoretical guarantees, while still achieving optimal runtime up to logarithmic factors under mild assumptions. Experimental results demonstrate a practical improvement.

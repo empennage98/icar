@@ -8,7 +8,7 @@ Algorithm configuration procedures optimize parameters of a given algorithm to p
 Python 3, pickle (for saving results), matplotlib (for generating plots)  
 
 #### Experimental Setup
-The saved runtimes of CPLEX/Regions and CPLEX/RCW can be downloaded [here]() and the saved runtimes of Minisat/CNFuzzdd can be downloaded from this [repo](https://github.com/deepmind/leaps-and-bounds)
+The saved runtimes of CPLEX/Regions and CPLEX/RCW can be downloaded [here](https://www.cs.ubc.ca/~drgraham/datasets.html) and the saved runtimes of Minisat/CNFuzzdd can be downloaded from this [repo](https://github.com/deepmind/leaps-and-bounds)
 
 #### Running the Code
 There are four kinds of routines, described as follows:
